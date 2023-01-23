@@ -17,5 +17,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Bun install packages
         run: bun install
-      - name: Scully Build
-        run: bun run build:scully
+      - name: Ng Build
+        run: bun run build
+      - name: Scully Generate
+        run: bun scully --project angular-tips --noPrompt --scanRoutes --
