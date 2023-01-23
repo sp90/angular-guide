@@ -4,11 +4,11 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "scully": "npx scully --project angular-tips --",
-    "scully:serve": "npx scully serve --project angular-tips --",
-    "scully:watch": "npx scully serve --project angular-tips --watch --",
+    "scully": "bunx scully --project angular-tips --",
+    "scully:serve": "bunx scully serve --project angular-tips --",
+    "scully:watch": "bunx scully serve --project angular-tips --watch --",
     "build": "ng build",
-    "build:scully": "ng build && npx scully --project angular-tips --noPrompt --scanRoutes --",
+    "build:scully": "ng build && bunx scully --project angular-tips --noPrompt --scanRoutes --",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
