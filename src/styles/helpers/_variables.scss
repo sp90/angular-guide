@@ -1,0 +1,17 @@
+$colors-primary: (
+  100: #9cdcfe,
+  400: #027fd4,
+  500: #007acc,
+);
+
+$colors-greys: (
+  100: #cacaca,
+  500: #2d2d2d,
+  700: #252526,
+  900: #1e1e1e,
+);
+
+$colors: (
+  primary: $colors-primary,
+  greys: $colors-greys,
+);

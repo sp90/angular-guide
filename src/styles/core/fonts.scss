@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'Menlo';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Menlo'), url('/assets/Menlo-Regular.woff') format('woff');
+}
+
+$font-spacer: 1.2em;
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6,
+p {
+  margin: $font-spacer 0 ($font-spacer / 2);
+}
+
+h1,
+.h1 {
+  font-size: 32px;
+  line-height: normal;
+}
+
+h2,
+.h2 {
+  font-size: 28px;
+  line-height: normal;
+}
+
+h3,
+.h3 {
+  font-size: 22px;
+  line-height: normal;
+}
+
+h4,
+.h4 {
+  font-size: 22px;
+  line-height: normal;
+}
+
+h5,
+.h5 {
+  font-size: 18px;
+  line-height: normal;
+}
+
+h6,
+.h6 {
+  font-size: 14px;
+  line-height: normal;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.2em;
+}

@@ -1,0 +1,9 @@
+@use 'sass:list';
+@use 'sass:map';
+
+@function color($colorType: primary, $lightLevel: 500) {
+  $colorList: map.get($colors, $colorType);
+  $color: map.get($colorList, $lightLevel);
+
+  @return $color;
+}

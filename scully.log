@@ -1,0 +1,193 @@
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-tips.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-tips.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+(You can skip this, or any future question by using the --noPrompt flag)
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-tips.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-tips.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+
+-----------------------------------
+The port "2667" is not available for the live-reload server.
+live reload will not be available. You can configure a different port in the config file.
+-----------------------------------
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+
+-----------------------------------
+The port "2667" is not available for the live-reload server.
+live reload will not be available. You can configure a different port in the config file.
+-----------------------------------
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+NOTICE:
+****************************************************************************************
+  This is a development tool for Scully applications.
+  You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************
+
+-----------------------------------
+The port "2667" is not available for the live-reload server.
+live reload will not be available. You can configure a different port in the config file.
+-----------------------------------
+----------------------------------Using stored unhandled routes!.----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"
+
+
+
+NOTICE:
+****************************************************************************************
+  This is a development tool for Scully applications.
+  You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************
+Puppeteer error while rendering "/home"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/home
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/
+ we will retry rendering this page up to 3 times.
+
+-----------------------------------
+The port "2667" is not available for the live-reload server.
+live reload will not be available. You can configure a different port in the config file.
+-----------------------------------
+Puppeteer error while rendering "/"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/home"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/home
+ we will retry rendering this page up to 3 times.
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+NOTICE:
+****************************************************************************************
+  This is a development tool for Scully applications.
+  You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************
+-----------------------------------
+The port "2667" is not available for the live-reload server.
+live reload will not be available. You can configure a different port in the config file.
+-----------------------------------
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+NOTICE:
+****************************************************************************************
+  This is a development tool for Scully applications.
+  You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************
+Puppeteer error while rendering "/"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/home"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/home
+ we will retry rendering this page up to 3 times.
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+No configuration for route "/:slug" found. Skipping
+No configuration for route "/:slug" found. Skipping
+No configuration for route "/:slug" found. Skipping
+Notice:
+    ---------------------------------------------------------------------------------------
+      Language 'zsh' is not available in the default Prism.js setup.
+      if you want support for this you can add it into your ScullyConfig.ts as:
+
+        import  'prismjs/components/prism-zsh'
+
+      Note that this is a sample the actual syntax might be slightly different
+    ---------------------------------------------------------------------------------------
+          Notice:
+    ---------------------------------------------------------------------------------------
+      Language 'zsh' is not available in the default Prism.js setup.
+      if you want support for this you can add it into your ScullyConfig.ts as:
+
+        import  'prismjs/components/prism-zsh'
+
+      Note that this is a sample the actual syntax might be slightly different
+    ---------------------------------------------------------------------------------------
+          Notice:
+    ---------------------------------------------------------------------------------------
+      Language 'zsh' is not available in the default Prism.js setup.
+      if you want support for this you can add it into your ScullyConfig.ts as:
+
+        import  'prismjs/components/prism-zsh'
+
+      Note that this is a sample the actual syntax might be slightly different
+    ---------------------------------------------------------------------------------------
+          Notice:
+    ---------------------------------------------------------------------------------------
+      Language 'zsh' is not available in the default Prism.js setup.
+      if you want support for this you can add it into your ScullyConfig.ts as:
+
+        import  'prismjs/components/prism-zsh'
+
+      Note that this is a sample the actual syntax might be slightly different
+    ---------------------------------------------------------------------------------------
+          Notice:
+    ---------------------------------------------------------------------------------------
+      Language 'zsh' is not available in the default Prism.js setup.
+      if you want support for this you can add it into your ScullyConfig.ts as:
+
+        import  'prismjs/components/prism-zsh'
+
+      Note that this is a sample the actual syntax might be slightly different
+    ---------------------------------------------------------------------------------------
+
+-----------------------------------
+The port "2667" is not available for the live-reload server.
+live reload will not be available. You can configure a different port in the config file.
+-----------------------------------
+--------------------------------------------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"Using stored unhandled routes!.
+
+
+
+NOTICE:
+****************************************************************************************
+  This is a development tool for Scully applications.
+  You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+

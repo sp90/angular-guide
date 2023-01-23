@@ -1,0 +1,21 @@
+@import 'src/styles/helpers/helpers';
+
+:host {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+aside {
+  width: 300px;
+  background-color: color(greys, 700);
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+main {
+  padding: 40px;
+  max-width: 900px;
+  margin: 0 auto;
+}

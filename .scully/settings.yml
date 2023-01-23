@@ -1,0 +1,11 @@
+identifier: lcd674c5n1r6ecc1
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: angular-tips
+homeFolder: /Users/simon/Documents/dev/angular-tips-scully
+distFolder: ./dist/angular-tips
+outDir: /Users/simon/Documents/dev/angular-tips-scully/dist/static
+handle404: ''
+allowErrorCollect: false
