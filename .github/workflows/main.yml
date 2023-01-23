@@ -1,0 +1,21 @@
+name: angular guide - build and test
+
+on: push
+
+jobs:
+  auto-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action checkout
+        uses: actions/checkout@v3
+      - name: Action setup bun
+        uses: oven-sh/setup-bun@v0.1.8
+        with:
+          bun-version: latest
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Bun install packages
+        run: bun install
+      - name: Build
+        uses: ianwalter/puppeteer-container@acc52cd2334ad9eaf6e1974562d263e0a711b7e8
+        with:
+          args: bun run build:scully
